@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Sâmia Cristina!
 
-🤖 Estudando JavaScript, HTML, CSS, Node.js
+🤖 JavaScript | HTML | CSS | Node.js
 
 
 <div align="center">
